@@ -13,7 +13,7 @@ I'm a passionate **Flutter developer** with hands-on experience building cross-p
 - 🌱 **Learning:** MVVM, advanced Dart, Cloud Firestore, UI/UX best practices  
 - 💬 **Ask me about:** Flutter, Dart, Java, Firebase, Bloc, Provider, Git, UI/UX  
 - ⚡ **Fun fact:** I'm a commerce student who fell in love with tech and app development!  
-- 📄 **My CV:** `My_CV.pdf` (included in repo)
+
 
 ---
 
