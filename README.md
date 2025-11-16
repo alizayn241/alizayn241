@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Ali Zayn!
-### *Mobile Application Developer | Flutter Enthusiast | UI/UX Learner*
+### *Mobile Application Developer | Flutter Developer | UI/UX Learner*
 
 I'm a passionate **Flutter developer** with hands-on experience building cross-platform mobile applications. Currently a student in **Public Policy Information Systems**, I specialize in transforming ideas into functional, scalable, and visually appealing apps.
 
