@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Building cross-platform mobile applications using Flutter, improving UI/UX workflows, and experimenting with Firebase backend integration.<br>👯 I’m looking to collaborate on Open-source Flutter projects, mobile app development ideas, and any project involving state management (Bloc, Provider, GetX) or clean architecture.<br>🤝 I’m looking for help with Advanced Flutter performance optimization, contributing to large-scale open-source mobile apps, and improving backend integration workflows.<br>🌱 I’m currently learning Clean Architecture, MVVM, advanced Dart techniques, Firebase services, and improving my English communication for global collaboration<br>💬 Ask me about Flutter development, UI/UX design principles, state management (Bloc, Cubit, Provider, GetX), Firebase, Java basics, and system analysis.<br>⚡ Fun fact I study Commerce – Public Policy Information Systems, but I spend most of my time building mobile apps and tech projects!
 
 
 # 💻 Tech Stack:
